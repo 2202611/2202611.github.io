@@ -1,7 +1,7 @@
 {
     "name": "Cave Story",
     "categories": ["games"],
-    "start_url": "/index.html",
+    "start_url": "index.html",
     "display": "standalone",
     "orientation": "landscape",
     "background_color": "#000000",
